@@ -1,0 +1,18 @@
+[submodule "CA1"]
+	path = CA1
+	url = https://github.com/DabiriAghdam/BPE-tokenizer-from-scratch
+[submodule "CA2"]
+	path = CA2
+	url = https://github.com/DabiriAghdam/naive-bayes-classifier-from-scratch
+[submodule "CA3"]
+	path = CA3
+	url = https://github.com/DabiriAghdam/POS-tagging-and-NER-using-Viterbi-LSTM-GRU
+[submodule "CA4"]
+	path = CA4
+	url = https://github.com/DabiriAghdam/mono-and-multi-lingual-transformer-based-models-entailment-classification-transfer-learning
+[submodule "CA5"]
+	path = CA5
+	url = https://github.com/vassef/Neural-Machine-Translation-using-FairSeq-and-OpenNMT
+[submodule "CA6"]
+	path = CA6
+	url = https://github.com/vassef/Question-Anwsering-on-three-persian-datasets
